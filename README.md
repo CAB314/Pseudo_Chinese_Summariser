@@ -9,6 +9,7 @@ Install the following dependency:
 - argparse == 1.1
 - re == 2.2.1
 - googletrans==4.0.0-rc1
+
 You can install it using the following command:
 
 ```
