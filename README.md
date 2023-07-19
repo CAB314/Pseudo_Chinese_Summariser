@@ -1,0 +1,2 @@
+# Pseudo_Chinese_Summariser
+日本語テキストのカタカナとひらがなの除去と英語翻訳
