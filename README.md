@@ -3,10 +3,12 @@
 ## Overview
 This Python script is a tool for processing Japanese text by removing katakana and hiragana, and optionally translating katakana blocks to English.
 
-$$ Dependencies
+## Dependencies
 Install the following dependency:
 
-googletrans==4.0.0-rc1
+- argparse == 1.1
+- re == 2.2.1
+- googletrans==4.0.0-rc1
 You can install it using the following command:
 
 ```
@@ -81,6 +83,8 @@ In this way, you can use this script to process Japanese text. For more details,
 
 以下の依存関係をインストールしてください：
 
+- argparse == 1.1
+- re == 2.2.1
 - googletrans==4.0.0-rc1
 
 インストール方法：
