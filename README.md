@@ -128,24 +128,24 @@ python pseudo_chinese_summariser.py input_file.txt output_file.txt
 `output_file.txt` の内容は次のようになります：
 
 ```output_file.txt
-自動繊維配置（AFP）欠陥検出システム
-豊富ラベル付不良サンプル必要エンドツーエンド教師学習法基
+自動繊維配置（AFP）欠陥検出system
+豊富label付不良sample必要End -to -end教師学習法基
 十分数簡単生成
-データ不足問題対処
-小規模データセット適オートエンコーダベース手法提案
+data不足問題対処
+小規模data適Auto encoder base手法提案
 基盤的観点見
-問題正常サンプル異常サンプル2値分類簡略化
+問題正常sample異常sample2値分類簡略化
 提案手法
-繊維レイアップ表面デプスマップ各コンポジットストリップ（タウ）合分割小ウィンドウ使用
-異常一部ウィンドウ
-オートエンコーダ渡入力再構築
-通常サンプルトレーニング
-サンプル対正確再構築行
-再構築エラー値潜在的異常定量的評価指標使用
-値組合異常マップ生成
-デプスマップ製造欠陥位置特定
+繊維Layup表面Depth map各Composite strip（Tau）合分割小window使用
+異常一部window
+Auto encoder渡入力再構築
+通常sampletraining
+sample対正確再構築行
+再構築error値潜在的異常定量的評価指標使用
+値組合異常map生成
+Depth map製造欠陥位置特定
 結果
-オートエンコーダ非常限スキャン数トレーニング
+Auto encoder非常限scan数training
 提案手法十分2値分類精度生出
 欠陥位置特定示
 ```
